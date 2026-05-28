@@ -1,0 +1,557 @@
+{
+    "Items": [
+        {
+            "rating": {
+                "S": "5"
+            },
+            "product_id": {
+                "S": "PROD-048"
+            },
+            "review_summary": {
+                "S": "The Champion Reverse Weave Hoodie from Champion exceeded my expectations. Stay cozy and stylish in this premium Champion Reverse Weave Hoodie from Champion. Worth every penny of the $70.0."
+            }
+        },
+        {
+            "rating": {
+                "S": "2"
+            },
+            "product_id": {
+                "S": "PROD-024"
+            },
+            "review_summary": {
+                "S": "Disappointed with this Clothing item. Brave the elements in style with the Patagonia Better Sweater Fleece Jacket from Patagonia. Wouldn't recommend at this price point."
+            }
+        },
+        {
+            "rating": {
+                "S": "4"
+            },
+            "product_id": {
+                "S": "PROD-041"
+            },
+            "review_summary": {
+                "S": "The Under Armour HeatGear Tech T-Shirt is good but not great. Discover the exceptional quality of Under Armour HeatGear Tech T-Shirt by Under Armour. There are better options available."
+            }
+        },
+        {
+            "rating": {
+                "S": "3"
+            },
+            "product_id": {
+                "S": "PROD-028"
+            },
+            "review_summary": {
+                "S": "Solid performance from the Champion Reverse Weave Hoodie. Stay cozy and stylish in this premium Champion Reverse Weave Hoodie from Champion. Good value for the price."
+            }
+        },
+        {
+            "rating": {
+                "S": "3"
+            },
+            "product_id": {
+                "S": "PROD-043"
+            },
+            "review_summary": {
+                "S": "Not entirely satisfied with the Sony WH-1000XM4 Wireless Headphones. Discover the exceptional quality of Sony WH-1000XM4 Wireless Headphones by Sony. It's decent but overpriced for what it offers."
+            }
+        },
+        {
+            "rating": {
+                "S": "2"
+            },
+            "product_id": {
+                "S": "PROD-009"
+            },
+            "review_summary": {
+                "S": "Disappointed with this Footwear item. Step out in confidence with these trendsetting Converse Chuck Taylor All Star High Top by Converse. Wouldn't recommend at this price point."
+            }
+        },
+        {
+            "rating": {
+                "S": "4"
+            },
+            "product_id": {
+                "S": "PROD-005"
+            },
+            "review_summary": {
+                "S": "I've been using this Footwear for a month now and I'm impressed. Discover the exceptional quality of Adidas Superstar Kids Sneakers by Adidas. Highly recommended!"
+            }
+        },
+        {
+            "rating": {
+                "S": "5"
+            },
+            "product_id": {
+                "S": "PROD-025"
+            },
+            "review_summary": {
+                "S": "Absolutely love my new Vans Old Skool Sneakers! Step out in confidence with these trendsetting Vans Old Skool Sneakers by Vans. Best purchase I've made this year."
+            }
+        },
+        {
+            "rating": {
+                "S": "3"
+            },
+            "product_id": {
+                "S": "PROD-038"
+            },
+            "review_summary": {
+                "S": "Solid performance from the Champion Reverse Weave Hoodie. Stay cozy and stylish in this premium Champion Reverse Weave Hoodie from Champion. Good value for the price."
+            }
+        },
+        {
+            "rating": {
+                "S": "2"
+            },
+            "product_id": {
+                "S": "PROD-020"
+            },
+            "review_summary": {
+                "S": "Disappointed with this Footwear item. Conquer any terrain with the rugged yet refined Timberland 6-Inch Premium Waterproof Boots from Timberland. Wouldn't recommend at this price point."
+            }
+        },
+        {
+            "rating": {
+                "S": "5"
+            },
+            "product_id": {
+                "S": "PROD-039"
+            },
+            "review_summary": {
+                "S": "The Carter's Baby 3-Pack Bodysuit Set from Carter's exceeded my expectations. Discover the exceptional quality of Carter's Baby 3-Pack Bodysuit Set by Carter's. Worth every penny of the $24.0."
+            }
+        },
+        {
+            "rating": {
+                "S": "4"
+            },
+            "product_id": {
+                "S": "PROD-030"
+            },
+            "review_summary": {
+                "S": "I've been using this Footwear for a month now and I'm impressed. Conquer any terrain with the rugged yet refined Timberland 6-Inch Premium Waterproof Boots from Timberland. Highly recommended!"
+            }
+        },
+        {
+            "rating": {
+                "S": "4"
+            },
+            "product_id": {
+                "S": "PROD-040"
+            },
+            "review_summary": {
+                "S": "This Timberland 6-Inch Premium Waterproof Boots is a game-changer in the Footwear space. Conquer any terrain with the rugged yet refined Timberland 6-Inch Premium Waterproof Boots from Timberland. Great value for money."
+            }
+        },
+        {
+            "rating": {
+                "S": "5"
+            },
+            "product_id": {
+                "S": "PROD-010"
+            },
+            "review_summary": {
+                "S": "The Uniqlo Uniqlo Ultra Light Down Jacket is exactly what I needed. Brave the elements in style with the Uniqlo Ultra Light Down Jacket from Uniqlo. Perfect fit for my lifestyle."
+            }
+        },
+        {
+            "rating": {
+                "S": "5"
+            },
+            "product_id": {
+                "S": "PROD-021"
+            },
+            "review_summary": {
+                "S": "The quality of this Under Armour product is outstanding. Discover the exceptional quality of Under Armour HeatGear Tech T-Shirt by Under Armour. I would buy it again."
+            }
+        },
+        {
+            "rating": {
+                "S": "2"
+            },
+            "product_id": {
+                "S": "PROD-049"
+            },
+            "review_summary": {
+                "S": "Disappointed with this Clothing item. Discover the exceptional quality of Carter's Baby 3-Pack Bodysuit Set by Carter's. Wouldn't recommend at this price point."
+            }
+        },
+        {
+            "rating": {
+                "S": "4"
+            },
+            "product_id": {
+                "S": "PROD-007"
+            },
+            "review_summary": {
+                "S": "The Samsung Galaxy Buds2 Pro Wireless Earbuds is good but not great. Discover the exceptional quality of Samsung Galaxy Buds2 Pro Wireless Earbuds by Samsung. There are better options available."
+            }
+        },
+        {
+            "rating": {
+                "S": "4"
+            },
+            "product_id": {
+                "S": "PROD-022"
+            },
+            "review_summary": {
+                "S": "I've been using this Accessories for a month now and I'm impressed. Carry your essentials in sophisticated style with the Kate Spade New York Crossbody Bag by Kate Spade. Highly recommended!"
+            }
+        },
+        {
+            "rating": {
+                "S": "3"
+            },
+            "product_id": {
+                "S": "PROD-011"
+            },
+            "review_summary": {
+                "S": "Solid performance from the Michael Kors Jet Set Travel Tote. Carry your essentials in sophisticated style with the Michael Kors Jet Set Travel Tote by Michael Kors. Good value for the price."
+            }
+        },
+        {
+            "rating": {
+                "S": "5"
+            },
+            "product_id": {
+                "S": "PROD-037"
+            },
+            "review_summary": {
+                "S": "The quality of this Ray-Ban product is outstanding. Shield your eyes in style with these iconic Ray-Ban Aviator Classic Sunglasses by Ray-Ban. I would buy it again."
+            }
+        },
+        {
+            "rating": {
+                "S": "5"
+            },
+            "product_id": {
+                "S": "PROD-045"
+            },
+            "review_summary": {
+                "S": "Absolutely love my new Vans Old Skool Sneakers! Step out in confidence with these trendsetting Vans Old Skool Sneakers by Vans. Best purchase I've made this year."
+            }
+        },
+        {
+            "rating": {
+                "S": "4"
+            },
+            "product_id": {
+                "S": "PROD-008"
+            },
+            "review_summary": {
+                "S": "Solid performance from the Ralph Lauren Classic Fit Polo Shirt. Discover the exceptional quality of Ralph Lauren Classic Fit Polo Shirt by Ralph Lauren. Good value for the price."
+            }
+        },
+        {
+            "rating": {
+                "S": "5"
+            },
+            "product_id": {
+                "S": "PROD-003"
+            },
+            "review_summary": {
+                "S": "The quality of this Zara product is outstanding. Captivate any room in this stunning Zara Floral Print Midi Dress by Zara. I would buy it again."
+            }
+        },
+        {
+            "rating": {
+                "S": "4"
+            },
+            "product_id": {
+                "S": "PROD-042"
+            },
+            "review_summary": {
+                "S": "I've been using this Accessories for a month now and I'm impressed. Carry your essentials in sophisticated style with the Kate Spade New York Crossbody Bag by Kate Spade. Highly recommended!"
+            }
+        },
+        {
+            "rating": {
+                "S": "4"
+            },
+            "product_id": {
+                "S": "PROD-029"
+            },
+            "review_summary": {
+                "S": "I've been using this Clothing for a month now and I'm impressed. Discover the exceptional quality of Carter's Baby 3-Pack Bodysuit Set by Carter's. Highly recommended!"
+            }
+        },
+        {
+            "rating": {
+                "S": "4"
+            },
+            "product_id": {
+                "S": "PROD-031"
+            },
+            "review_summary": {
+                "S": "I've been using this Clothing for a month now and I'm impressed. Discover the exceptional quality of Under Armour HeatGear Tech T-Shirt by Under Armour. Highly recommended!"
+            }
+        },
+        {
+            "rating": {
+                "S": "4"
+            },
+            "product_id": {
+                "S": "PROD-004"
+            },
+            "review_summary": {
+                "S": "The Apple Watch Series 9 GPS is good but not great. Discover the exceptional quality of Apple Watch Series 9 GPS by Apple. There are better options available."
+            }
+        },
+        {
+            "rating": {
+                "S": "4"
+            },
+            "product_id": {
+                "S": "PROD-050"
+            },
+            "review_summary": {
+                "S": "This Timberland 6-Inch Premium Waterproof Boots is a game-changer in the Footwear space. Conquer any terrain with the rugged yet refined Timberland 6-Inch Premium Waterproof Boots from Timberland. Great value for money."
+            }
+        },
+        {
+            "rating": {
+                "S": "3"
+            },
+            "product_id": {
+                "S": "PROD-012"
+            },
+            "review_summary": {
+                "S": "Not entirely satisfied with the Gap Kids Denim Jacket. Discover the exceptional quality of Gap Kids Denim Jacket by Gap. It's decent but overpriced for what it offers."
+            }
+        },
+        {
+            "rating": {
+                "S": "5"
+            },
+            "product_id": {
+                "S": "PROD-033"
+            },
+            "review_summary": {
+                "S": "The Sony WH-1000XM4 Wireless Headphones from Sony exceeded my expectations. Discover the exceptional quality of Sony WH-1000XM4 Wireless Headphones by Sony. Worth every penny of the $349.99."
+            }
+        },
+        {
+            "rating": {
+                "S": "3"
+            },
+            "product_id": {
+                "S": "PROD-006"
+            },
+            "review_summary": {
+                "S": "Solid performance from the H&M Oversized Knit Sweater. Stay cozy and stylish in this premium H&M Oversized Knit Sweater from H&M. Good value for the price."
+            }
+        },
+        {
+            "rating": {
+                "S": "3"
+            },
+            "product_id": {
+                "S": "PROD-014"
+            },
+            "review_summary": {
+                "S": "The Patagonia Better Sweater Fleece Jacket is good but not great. Brave the elements in style with the Patagonia Better Sweater Fleece Jacket from Patagonia. There are better options available."
+            }
+        },
+        {
+            "rating": {
+                "S": "5"
+            },
+            "product_id": {
+                "S": "PROD-026"
+            },
+            "review_summary": {
+                "S": "The Lululemon Lululemon Align High-Rise Pant is exactly what I needed. Discover the exceptional quality of Lululemon Align High-Rise Pant by Lululemon. Perfect fit for my lifestyle."
+            }
+        },
+        {
+            "rating": {
+                "S": "4"
+            },
+            "product_id": {
+                "S": "PROD-017"
+            },
+            "review_summary": {
+                "S": "I've been using this Accessories for a month now and I'm impressed. Shield your eyes in style with these iconic Ray-Ban Aviator Classic Sunglasses by Ray-Ban. Highly recommended!"
+            }
+        },
+        {
+            "rating": {
+                "S": "4"
+            },
+            "product_id": {
+                "S": "PROD-047"
+            },
+            "review_summary": {
+                "S": "I've been using this Accessories for a month now and I'm impressed. Shield your eyes in style with these iconic Ray-Ban Aviator Classic Sunglasses by Ray-Ban. Highly recommended!"
+            }
+        },
+        {
+            "rating": {
+                "S": "2"
+            },
+            "product_id": {
+                "S": "PROD-002"
+            },
+            "review_summary": {
+                "S": "Disappointed with this Clothing item. Elevate your wardrobe with these premium Levi's 501 Original Fit Jeans from Levi's. Wouldn't recommend at this price point."
+            }
+        },
+        {
+            "rating": {
+                "S": "4"
+            },
+            "product_id": {
+                "S": "PROD-019"
+            },
+            "review_summary": {
+                "S": "This Carter's Baby 3-Pack Bodysuit Set is a game-changer in the Clothing space. Discover the exceptional quality of Carter's Baby 3-Pack Bodysuit Set by Carter's. Great value for money."
+            }
+        },
+        {
+            "rating": {
+                "S": "3"
+            },
+            "product_id": {
+                "S": "PROD-034"
+            },
+            "review_summary": {
+                "S": "The Patagonia Better Sweater Fleece Jacket is good but not great. Brave the elements in style with the Patagonia Better Sweater Fleece Jacket from Patagonia. There are better options available."
+            }
+        },
+        {
+            "rating": {
+                "S": "4"
+            },
+            "product_id": {
+                "S": "PROD-032"
+            },
+            "review_summary": {
+                "S": "I've been using this Accessories for a month now and I'm impressed. Carry your essentials in sophisticated style with the Kate Spade New York Crossbody Bag by Kate Spade. Highly recommended!"
+            }
+        },
+        {
+            "rating": {
+                "S": "3"
+            },
+            "product_id": {
+                "S": "PROD-018"
+            },
+            "review_summary": {
+                "S": "The Champion Reverse Weave Hoodie is good but not great. Stay cozy and stylish in this premium Champion Reverse Weave Hoodie from Champion. There are better options available."
+            }
+        },
+        {
+            "rating": {
+                "S": "2"
+            },
+            "product_id": {
+                "S": "PROD-027"
+            },
+            "review_summary": {
+                "S": "Not entirely satisfied with the Ray-Ban Aviator Classic Sunglasses. Shield your eyes in style with these iconic Ray-Ban Aviator Classic Sunglasses by Ray-Ban. It's decent but overpriced for what it offers."
+            }
+        },
+        {
+            "rating": {
+                "S": "4"
+            },
+            "product_id": {
+                "S": "PROD-013"
+            },
+            "review_summary": {
+                "S": "Solid performance from the Sony WH-1000XM4 Wireless Headphones. Discover the exceptional quality of Sony WH-1000XM4 Wireless Headphones by Sony. Good value for the price."
+            }
+        },
+        {
+            "rating": {
+                "S": "5"
+            },
+            "product_id": {
+                "S": "PROD-035"
+            },
+            "review_summary": {
+                "S": "The Vans Old Skool Sneakers from Vans exceeded my expectations. Step out in confidence with these trendsetting Vans Old Skool Sneakers by Vans. Worth every penny of the $65.0."
+            }
+        },
+        {
+            "rating": {
+                "S": "4"
+            },
+            "product_id": {
+                "S": "PROD-023"
+            },
+            "review_summary": {
+                "S": "This Sony WH-1000XM4 Wireless Headphones is a game-changer in the Electronics space. Discover the exceptional quality of Sony WH-1000XM4 Wireless Headphones by Sony. Great value for money."
+            }
+        },
+        {
+            "rating": {
+                "S": "4"
+            },
+            "product_id": {
+                "S": "PROD-036"
+            },
+            "review_summary": {
+                "S": "Solid performance from the Lululemon Align High-Rise Pant. Discover the exceptional quality of Lululemon Align High-Rise Pant by Lululemon. Good value for the price."
+            }
+        },
+        {
+            "rating": {
+                "S": "5"
+            },
+            "product_id": {
+                "S": "PROD-001"
+            },
+            "review_summary": {
+                "S": "The Nike Air Max 270 Running Shoes from Nike exceeded my expectations. Experience peak performance with the Nike Air Max 270 Running Shoes, featuring innovative design for maximum comfort and support. Worth every penny of the $150.0."
+            }
+        },
+        {
+            "rating": {
+                "S": "4"
+            },
+            "product_id": {
+                "S": "PROD-044"
+            },
+            "review_summary": {
+                "S": "I've been using this Clothing for a month now and I'm impressed. Brave the elements in style with the Patagonia Better Sweater Fleece Jacket from Patagonia. Highly recommended!"
+            }
+        },
+        {
+            "rating": {
+                "S": "5"
+            },
+            "product_id": {
+                "S": "PROD-046"
+            },
+            "review_summary": {
+                "S": "The Lululemon Align High-Rise Pant from Lululemon exceeded my expectations. Discover the exceptional quality of Lululemon Align High-Rise Pant by Lululemon. Worth every penny of the $128.0."
+            }
+        },
+        {
+            "rating": {
+                "S": "3"
+            },
+            "product_id": {
+                "S": "PROD-016"
+            },
+            "review_summary": {
+                "S": "Not entirely satisfied with the Lululemon Align High-Rise Pant. Discover the exceptional quality of Lululemon Align High-Rise Pant by Lululemon. It's decent but overpriced for what it offers."
+            }
+        },
+        {
+            "rating": {
+                "S": "2"
+            },
+            "product_id": {
+                "S": "PROD-015"
+            },
+            "review_summary": {
+                "S": "Disappointed with this Footwear item. Step out in confidence with these trendsetting Vans Old Skool Sneakers by Vans. Wouldn't recommend at this price point."
+            }
+        }
+    ],
+    "Count": 50,
+    "ScannedCount": 50,
+    "ConsumedCapacity": null
+}

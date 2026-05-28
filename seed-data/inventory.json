@@ -1,0 +1,1157 @@
+{
+    "Items": [
+        {
+            "last_restocked": {
+                "S": "2024-10-08"
+            },
+            "warehouse_location": {
+                "S": "C1"
+            },
+            "quantity_available": {
+                "S": "0"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Out of Stock"
+            },
+            "product_id": {
+                "S": "PROD-048"
+            },
+            "reorder_level": {
+                "S": "4"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-10-25"
+            },
+            "warehouse_location": {
+                "S": "B2"
+            },
+            "quantity_available": {
+                "S": "4"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "In Stock"
+            },
+            "product_id": {
+                "S": "PROD-024"
+            },
+            "reorder_level": {
+                "S": "3"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-10-26"
+            },
+            "warehouse_location": {
+                "S": "D2"
+            },
+            "quantity_available": {
+                "S": "3"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Low Stock"
+            },
+            "product_id": {
+                "S": "PROD-041"
+            },
+            "reorder_level": {
+                "S": "4"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-10-20"
+            },
+            "warehouse_location": {
+                "S": "D2"
+            },
+            "quantity_available": {
+                "S": "16"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Well Stocked"
+            },
+            "product_id": {
+                "S": "PROD-028"
+            },
+            "reorder_level": {
+                "S": "3"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-11-07"
+            },
+            "warehouse_location": {
+                "S": "B2"
+            },
+            "quantity_available": {
+                "S": "14"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Well Stocked"
+            },
+            "product_id": {
+                "S": "PROD-043"
+            },
+            "reorder_level": {
+                "S": "4"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-11-23"
+            },
+            "warehouse_location": {
+                "S": "D2"
+            },
+            "quantity_available": {
+                "S": "17"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Well Stocked"
+            },
+            "product_id": {
+                "S": "PROD-009"
+            },
+            "reorder_level": {
+                "S": "4"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-11-17"
+            },
+            "warehouse_location": {
+                "S": "D1"
+            },
+            "quantity_available": {
+                "S": "12"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Well Stocked"
+            },
+            "product_id": {
+                "S": "PROD-005"
+            },
+            "reorder_level": {
+                "S": "4"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-11-08"
+            },
+            "warehouse_location": {
+                "S": "A1"
+            },
+            "quantity_available": {
+                "S": "1"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Low Stock"
+            },
+            "product_id": {
+                "S": "PROD-025"
+            },
+            "reorder_level": {
+                "S": "4"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-10-24"
+            },
+            "warehouse_location": {
+                "S": "A2"
+            },
+            "quantity_available": {
+                "S": "18"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Well Stocked"
+            },
+            "product_id": {
+                "S": "PROD-038"
+            },
+            "reorder_level": {
+                "S": "2"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-12-01"
+            },
+            "warehouse_location": {
+                "S": "C1"
+            },
+            "quantity_available": {
+                "S": "18"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Well Stocked"
+            },
+            "product_id": {
+                "S": "PROD-020"
+            },
+            "reorder_level": {
+                "S": "2"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-12-26"
+            },
+            "warehouse_location": {
+                "S": "B2"
+            },
+            "quantity_available": {
+                "S": "10"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "In Stock"
+            },
+            "product_id": {
+                "S": "PROD-039"
+            },
+            "reorder_level": {
+                "S": "4"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-10-22"
+            },
+            "warehouse_location": {
+                "S": "D1"
+            },
+            "quantity_available": {
+                "S": "9"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "In Stock"
+            },
+            "product_id": {
+                "S": "PROD-030"
+            },
+            "reorder_level": {
+                "S": "3"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-12-08"
+            },
+            "warehouse_location": {
+                "S": "A2"
+            },
+            "quantity_available": {
+                "S": "13"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Well Stocked"
+            },
+            "product_id": {
+                "S": "PROD-040"
+            },
+            "reorder_level": {
+                "S": "4"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-12-25"
+            },
+            "warehouse_location": {
+                "S": "B1"
+            },
+            "quantity_available": {
+                "S": "10"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "In Stock"
+            },
+            "product_id": {
+                "S": "PROD-010"
+            },
+            "reorder_level": {
+                "S": "5"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-11-08"
+            },
+            "warehouse_location": {
+                "S": "C1"
+            },
+            "quantity_available": {
+                "S": "8"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "In Stock"
+            },
+            "product_id": {
+                "S": "PROD-021"
+            },
+            "reorder_level": {
+                "S": "2"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-12-16"
+            },
+            "warehouse_location": {
+                "S": "A1"
+            },
+            "quantity_available": {
+                "S": "18"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Well Stocked"
+            },
+            "product_id": {
+                "S": "PROD-049"
+            },
+            "reorder_level": {
+                "S": "3"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-11-10"
+            },
+            "warehouse_location": {
+                "S": "A2"
+            },
+            "quantity_available": {
+                "S": "20"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Well Stocked"
+            },
+            "product_id": {
+                "S": "PROD-007"
+            },
+            "reorder_level": {
+                "S": "3"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-12-18"
+            },
+            "warehouse_location": {
+                "S": "A2"
+            },
+            "quantity_available": {
+                "S": "13"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Well Stocked"
+            },
+            "product_id": {
+                "S": "PROD-022"
+            },
+            "reorder_level": {
+                "S": "2"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-11-04"
+            },
+            "warehouse_location": {
+                "S": "B1"
+            },
+            "quantity_available": {
+                "S": "10"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "In Stock"
+            },
+            "product_id": {
+                "S": "PROD-011"
+            },
+            "reorder_level": {
+                "S": "2"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-12-26"
+            },
+            "warehouse_location": {
+                "S": "A1"
+            },
+            "quantity_available": {
+                "S": "3"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Low Stock"
+            },
+            "product_id": {
+                "S": "PROD-037"
+            },
+            "reorder_level": {
+                "S": "2"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-12-22"
+            },
+            "warehouse_location": {
+                "S": "A1"
+            },
+            "quantity_available": {
+                "S": "20"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Well Stocked"
+            },
+            "product_id": {
+                "S": "PROD-045"
+            },
+            "reorder_level": {
+                "S": "5"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-10-15"
+            },
+            "warehouse_location": {
+                "S": "B1"
+            },
+            "quantity_available": {
+                "S": "7"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "In Stock"
+            },
+            "product_id": {
+                "S": "PROD-008"
+            },
+            "reorder_level": {
+                "S": "4"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-12-06"
+            },
+            "warehouse_location": {
+                "S": "C1"
+            },
+            "quantity_available": {
+                "S": "7"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "In Stock"
+            },
+            "product_id": {
+                "S": "PROD-003"
+            },
+            "reorder_level": {
+                "S": "2"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-12-10"
+            },
+            "warehouse_location": {
+                "S": "B1"
+            },
+            "quantity_available": {
+                "S": "15"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Well Stocked"
+            },
+            "product_id": {
+                "S": "PROD-042"
+            },
+            "reorder_level": {
+                "S": "2"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-11-02"
+            },
+            "warehouse_location": {
+                "S": "A2"
+            },
+            "quantity_available": {
+                "S": "12"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Well Stocked"
+            },
+            "product_id": {
+                "S": "PROD-029"
+            },
+            "reorder_level": {
+                "S": "5"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-12-24"
+            },
+            "warehouse_location": {
+                "S": "A2"
+            },
+            "quantity_available": {
+                "S": "9"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "In Stock"
+            },
+            "product_id": {
+                "S": "PROD-031"
+            },
+            "reorder_level": {
+                "S": "5"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-10-25"
+            },
+            "warehouse_location": {
+                "S": "A1"
+            },
+            "quantity_available": {
+                "S": "8"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "In Stock"
+            },
+            "product_id": {
+                "S": "PROD-004"
+            },
+            "reorder_level": {
+                "S": "3"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-10-24"
+            },
+            "warehouse_location": {
+                "S": "A1"
+            },
+            "quantity_available": {
+                "S": "6"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "In Stock"
+            },
+            "product_id": {
+                "S": "PROD-050"
+            },
+            "reorder_level": {
+                "S": "3"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-11-12"
+            },
+            "warehouse_location": {
+                "S": "B2"
+            },
+            "quantity_available": {
+                "S": "4"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "In Stock"
+            },
+            "product_id": {
+                "S": "PROD-012"
+            },
+            "reorder_level": {
+                "S": "3"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-11-01"
+            },
+            "warehouse_location": {
+                "S": "B1"
+            },
+            "quantity_available": {
+                "S": "2"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Low Stock"
+            },
+            "product_id": {
+                "S": "PROD-033"
+            },
+            "reorder_level": {
+                "S": "4"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-12-11"
+            },
+            "warehouse_location": {
+                "S": "D2"
+            },
+            "quantity_available": {
+                "S": "19"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Well Stocked"
+            },
+            "product_id": {
+                "S": "PROD-006"
+            },
+            "reorder_level": {
+                "S": "4"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-10-10"
+            },
+            "warehouse_location": {
+                "S": "D1"
+            },
+            "quantity_available": {
+                "S": "7"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "In Stock"
+            },
+            "product_id": {
+                "S": "PROD-014"
+            },
+            "reorder_level": {
+                "S": "4"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-10-05"
+            },
+            "warehouse_location": {
+                "S": "A2"
+            },
+            "quantity_available": {
+                "S": "8"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "In Stock"
+            },
+            "product_id": {
+                "S": "PROD-026"
+            },
+            "reorder_level": {
+                "S": "3"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-11-13"
+            },
+            "warehouse_location": {
+                "S": "B2"
+            },
+            "quantity_available": {
+                "S": "8"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "In Stock"
+            },
+            "product_id": {
+                "S": "PROD-017"
+            },
+            "reorder_level": {
+                "S": "5"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-10-18"
+            },
+            "warehouse_location": {
+                "S": "A1"
+            },
+            "quantity_available": {
+                "S": "4"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "In Stock"
+            },
+            "product_id": {
+                "S": "PROD-047"
+            },
+            "reorder_level": {
+                "S": "4"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-11-20"
+            },
+            "warehouse_location": {
+                "S": "C2"
+            },
+            "quantity_available": {
+                "S": "15"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Well Stocked"
+            },
+            "product_id": {
+                "S": "PROD-002"
+            },
+            "reorder_level": {
+                "S": "5"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-12-18"
+            },
+            "warehouse_location": {
+                "S": "C1"
+            },
+            "quantity_available": {
+                "S": "4"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "In Stock"
+            },
+            "product_id": {
+                "S": "PROD-019"
+            },
+            "reorder_level": {
+                "S": "3"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-12-06"
+            },
+            "warehouse_location": {
+                "S": "C1"
+            },
+            "quantity_available": {
+                "S": "1"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Low Stock"
+            },
+            "product_id": {
+                "S": "PROD-034"
+            },
+            "reorder_level": {
+                "S": "2"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-12-11"
+            },
+            "warehouse_location": {
+                "S": "B2"
+            },
+            "quantity_available": {
+                "S": "17"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Well Stocked"
+            },
+            "product_id": {
+                "S": "PROD-032"
+            },
+            "reorder_level": {
+                "S": "4"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-12-07"
+            },
+            "warehouse_location": {
+                "S": "A1"
+            },
+            "quantity_available": {
+                "S": "19"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Well Stocked"
+            },
+            "product_id": {
+                "S": "PROD-018"
+            },
+            "reorder_level": {
+                "S": "5"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-12-15"
+            },
+            "warehouse_location": {
+                "S": "C2"
+            },
+            "quantity_available": {
+                "S": "1"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Low Stock"
+            },
+            "product_id": {
+                "S": "PROD-027"
+            },
+            "reorder_level": {
+                "S": "4"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-12-02"
+            },
+            "warehouse_location": {
+                "S": "C2"
+            },
+            "quantity_available": {
+                "S": "17"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Well Stocked"
+            },
+            "product_id": {
+                "S": "PROD-013"
+            },
+            "reorder_level": {
+                "S": "2"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-11-16"
+            },
+            "warehouse_location": {
+                "S": "C1"
+            },
+            "quantity_available": {
+                "S": "16"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Well Stocked"
+            },
+            "product_id": {
+                "S": "PROD-035"
+            },
+            "reorder_level": {
+                "S": "2"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-12-26"
+            },
+            "warehouse_location": {
+                "S": "B2"
+            },
+            "quantity_available": {
+                "S": "4"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "In Stock"
+            },
+            "product_id": {
+                "S": "PROD-023"
+            },
+            "reorder_level": {
+                "S": "4"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-10-20"
+            },
+            "warehouse_location": {
+                "S": "A2"
+            },
+            "quantity_available": {
+                "S": "19"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Well Stocked"
+            },
+            "product_id": {
+                "S": "PROD-036"
+            },
+            "reorder_level": {
+                "S": "3"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-11-24"
+            },
+            "warehouse_location": {
+                "S": "A1"
+            },
+            "quantity_available": {
+                "S": "10"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "In Stock"
+            },
+            "product_id": {
+                "S": "PROD-001"
+            },
+            "reorder_level": {
+                "S": "5"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-10-22"
+            },
+            "warehouse_location": {
+                "S": "B1"
+            },
+            "quantity_available": {
+                "S": "9"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "In Stock"
+            },
+            "product_id": {
+                "S": "PROD-044"
+            },
+            "reorder_level": {
+                "S": "3"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-10-16"
+            },
+            "warehouse_location": {
+                "S": "C1"
+            },
+            "quantity_available": {
+                "S": "5"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "In Stock"
+            },
+            "product_id": {
+                "S": "PROD-046"
+            },
+            "reorder_level": {
+                "S": "3"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-11-08"
+            },
+            "warehouse_location": {
+                "S": "A2"
+            },
+            "quantity_available": {
+                "S": "17"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "Well Stocked"
+            },
+            "product_id": {
+                "S": "PROD-016"
+            },
+            "reorder_level": {
+                "S": "4"
+            }
+        },
+        {
+            "last_restocked": {
+                "S": "2024-11-27"
+            },
+            "warehouse_location": {
+                "S": "D2"
+            },
+            "quantity_available": {
+                "S": "4"
+            },
+            "max_stock_level": {
+                "S": "25"
+            },
+            "stock_status": {
+                "S": "In Stock"
+            },
+            "product_id": {
+                "S": "PROD-015"
+            },
+            "reorder_level": {
+                "S": "4"
+            }
+        }
+    ],
+    "Count": 50,
+    "ScannedCount": 50,
+    "ConsumedCapacity": null
+}

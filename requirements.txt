@@ -1,0 +1,18 @@
+strands-agents>=1.7,<2.0
+strands-agents-tools>=0.10
+bedrock-agentcore>=0.5
+bedrock-agentcore-starter-toolkit>=0.3,<0.4
+boto3>=1.40
+botocore>=1.40
+opensearch-py>=2.4
+mcp[cli]>=1.0
+requests
+fastapi
+uvicorn
+
+# Observability
+aws-opentelemetry-distro>=0.10
+opentelemetry-instrumentation-botocore
+
+# Optional
+strands-agents-evals
